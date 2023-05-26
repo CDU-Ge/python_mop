@@ -1,9 +1,16 @@
-# python_mop
-python toolkit for monitor-oriented programming.
+# -*- coding: utf-8 -*-
+# Copyright (c) CDU
 
-## Examples
+"""Model Docstrings
 
-```python
+"""
+
+from __future__ import absolute_import
+from __future__ import annotations
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
+
 import mop
 
 
@@ -32,4 +39,3 @@ def add2(a, b):
 
 print(add2(1.1, 1.1))
 # 1
-```
