@@ -166,3 +166,6 @@ cython_debug/
 /.idea/modules.xml
 /.idea/python_mop.iml
 /.idea/vcs.xml
+
+/tests/*.cmd
+/tests/*.exe
